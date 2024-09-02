@@ -1,0 +1,19 @@
+body{
+    background-image: url(assets/lion-black-dark-monochrome-wallpaper-preview.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+.clock{
+  color: #fff;
+  font-size: 4.5rem;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: end;
+  margin-top: 150px;
+  margin-right: 20px;
+  text-shadow:3px 3px 5px hsla(0, 0%, 0, 0.75%) ;
+}
